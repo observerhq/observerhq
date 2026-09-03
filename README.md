@@ -1,6 +1,6 @@
 # Hi, I'm Vladislav
 
-**Frontend Developer in progress.**
+**Full-stack developer in progress.**
 
 I'm currently learning frontend development and building projects to strengthen my HTML, CSS, and JavaScript skills.
 
